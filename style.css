@@ -2,10 +2,10 @@
   background-color:black;
   color:white;
   border-radius:10px;
-  border:light;
-  align-item:center;
+  border: 1px solid lightgray;
+  align-items:center;
   width:500px;
-  height:500px
+  height:500px;
 }
 
 #screen{
@@ -23,15 +23,15 @@
 #values{
   border-radius:10px;
   border-color:grey;
-  border:bold;
-  transition:step(5);
+  border: 1px solid lightgray;
+  transition:ease-out;
   transition-delay:2s;
   transition-duration:5s;
   height:40px;
   width:50px;
 }
 
-button.hover{
+button:hover{
   cursor:pointer;
   background-color:grey;
 }
