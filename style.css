@@ -1,4 +1,4 @@
-div{
+.list{
   background-color:black;
   color:white;
   border-radius:10px;
@@ -17,7 +17,7 @@ div{
     box-sizing: border-box;
 }
 
-button{
+#values{
   border-radius:10px;
   border-color:grey;
   border:bold;
