@@ -1,7 +1,7 @@
-function addValue{
-  document.getElementby(add) 
+function addValue(add) {
+  document.getElementById("add").add += add;
 }
 
-function removeValue{
-  document.getElementby(remove) 
+function removeValue(remove) {
+  document.getElementById("remove").remove ="";
 }
