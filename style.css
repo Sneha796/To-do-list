@@ -3,6 +3,9 @@
   color:white;
   border-radius:10px;
   border:light;
+  align-item:center;
+  width:200px;
+  height:200px
 }
 
 #screen{
@@ -24,6 +27,8 @@
   transition:step(5);
   transition-delay:2s;
   transition-duration:5s;
+  height:40px;
+  width:50px;
 }
 
 button.hover{
