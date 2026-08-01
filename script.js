@@ -1,7 +1,10 @@
-function addValue(add) {
-  document.getElementById("display").value += add;
+function addValue() {
+  let add = 
+  document.getElementById("screen").value;
+  document.getElementById("taskScreen").innerHTML += add ;
 }
 
-function removeValue(remove) {
-  document.getElementById("display").value -="";
+function removeValue() {
+  let taskScreen = 
+  document.getElementById("taskScreen").value =" ";
 }
