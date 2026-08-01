@@ -1,5 +1,5 @@
 function addValue(add) {
-  document.getElementById("screen").value += add;
+  document.getElementById("display").value += add;
 }
 
 function removeValue(remove) {
