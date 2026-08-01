@@ -1,5 +1,5 @@
 .list{
-  background-color:black;
+  background-color:051014;
   color:white;
   border-radius:10px;
   border: 1px solid lightgray;
@@ -12,6 +12,7 @@
 }
 
 #screen{
+    color:CDDDDD;
     width: 100%;
     height: 50px;
     font-size: 20px;
@@ -32,6 +33,7 @@
     border: none;
     border-radius: 10px;
     box-sizing: border-box;
+    background-color:2E2F2F;
 }
 #values{
   border-radius:10px;
