@@ -1,7 +1,7 @@
 function addValue(add) {
-  document.getElementById("add").value += add;
+  document.getElementById("screen").value += add;
 }
 
 function removeValue(remove) {
-  document.getElementById("remove").value ="";
+  document.getElementById("display").value -="";
 }
