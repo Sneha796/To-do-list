@@ -1,1 +1,35 @@
+div{
+  background-color:black;
+  color:white;
+  border-radius:10px;
+  border:light;
+}
 
+#screen{
+    width: 150%;
+    height: 80px;
+    font-size: 28px;
+    text-align: left;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 8px;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+button{
+  border-radius:10px;
+  border-color:grey;
+  border:bold;
+  transition:step(5);
+  transition-delay:2s;
+  transition-duration:5s;
+}
+
+button.hover{
+  cursor:pointer;
+  background-color:grey;
+}
+
+
+  
